@@ -1,0 +1,46 @@
+body {
+    margin: 0 auto;
+    max-width: 60rem;
+    color: #202020;
+    background-color: #F7F6ED;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+   border-style: dashed;
+   border-width: 1px;
+   border-color: lightgray;
+   background-color: white;
+   padding: 20px
+}
+
+h1 {
+    color: #1d1b28; 
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0.3rem;
+}
+
+a.button:link {
+    color: #152c21;
+    border: 1px solid #2E664B;
+    background-color: #E4EDE8;
+    padding: 10px;
+    position: relative;
+    bottom: 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    filter: drop-shadow(.3rem .3rem 0.2rem #c7c7c7);
+}
+
+a.button:visited {
+    color: #850038; }
+a.button:hover {
+    color: #063dc0;
+    text-decoration: underline; }
+a.button:active {
+    color: #006b00; }
+
+main {
+    background-color: #d1d9d1;
+    padding: 25px;
+} 
