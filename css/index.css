@@ -311,7 +311,7 @@ a:active {
 
  /* For heading of Contact Me page */
 .contact-head {
-    text-align: center;
+    text-align: left;
 }
 
 /* Formatting for list of exercies on Portfolio landing page */
